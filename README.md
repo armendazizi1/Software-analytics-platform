@@ -1,3 +1,10 @@
+A software analytics platform that does the following: 
+
+* Visualize and easily navigate the change history of a system
+* Mark bug- inducing commits with the SZZ algorithm
+* Mine information about Pull Requests
+* Profile software developers: contribution, PR, bugs introduced, expertise 
+* Just-in-time defect prediction
 
 # Backend Setup
 
@@ -37,3 +44,11 @@ run `localhost:3000` on your browser (chrome preferable).
 
 cd backend/libs
 java -jar ck-0.6.3-SNAPSHOT-jar-with-dependencies.jar <repo-dir> true 0 false
+  
+  
+## Authors
+
+* **Gabriele Zorloni**  
+* **Armend Azizi**    
+* **Susanna Ardigo**    
+* **Nimisha Manjali**   
